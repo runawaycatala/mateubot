@@ -1,0 +1,35 @@
+{
+  "id": "04607628-ab41-416b-8f26-ba26ee17b11c",
+  "name": "pista",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "La següent clau esta guardada dintre del meu codi font, busca el meu codi per internet i trobaràs la clau. Recorda que estic en continu desenvolupament, si la busques i no la trobes ves actualitzant el meu codi fins que surti. Molta sort!!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

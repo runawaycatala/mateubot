@@ -1,0 +1,17 @@
+[
+  {
+    "id": "c0f61fac-df6c-4b67-b892-47c258cf75a0",
+    "data": [
+      {
+        "text": "clau",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]
